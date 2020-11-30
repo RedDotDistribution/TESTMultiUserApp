@@ -8,6 +8,7 @@ namespace TESTMultiUserApp.Controllers
 {
     public class HomeController : Controller
     {
+    /// this is index controller
         public ActionResult Index()
         {
             return View();
