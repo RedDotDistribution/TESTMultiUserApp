@@ -12,7 +12,7 @@ namespace TESTMultiUserApp.Controllers
         {
             return View();
         }
-
+        // comment on about view of home controller to check commit
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
