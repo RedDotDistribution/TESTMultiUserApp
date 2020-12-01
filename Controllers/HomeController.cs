@@ -11,6 +11,7 @@ namespace TESTMultiUserApp.Controllers
         public ActionResult Index()
         {
             return View();
+
         }
         // comment on about view of home controller to check commit
         public ActionResult About()
