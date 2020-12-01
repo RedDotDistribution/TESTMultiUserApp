@@ -13,5 +13,11 @@ namespace TESTMultiUserApp.Controllers
         {
             return View();
         }
+
+        // GET: Method to login in Branch 01
+        public ActionResult Login()
+        {
+            return View();
+        }
     }
 }
